@@ -27,10 +27,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/FARID.jpeg" width="90"/> | **Salim Farid Valera Vega** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/MANCHAY.png" width="90"/> | **Abner Manchay Pinto** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/KIARA.png" width="90"/> | **Kiara Koo Martinez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/ELZER.png" width="90"/> | **Elzer Samaniego Chuin** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/JEREMY.png" width="90"/> | **Jeremy Salvatierra Trujillo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/MANCHAY.jpeg" width="90"/> | **Abner Manchay Pinto** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/KIARA.jpeg" width="90"/> | **Kiara Koo Martinez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/ELZER.jpeg" width="90"/> | **Elzer Samaniego Chuin** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/JEREMY.jpeg" width="90"/> | **Jeremy Salvatierra Trujillo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
