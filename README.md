@@ -33,7 +33,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Abner Manchay Pinto** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Kiara Koo Martinez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Elzer Samaniego Chuin** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **bhjsfvbshf** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Jeremy Salvatierra Trujillo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
