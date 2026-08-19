@@ -10,7 +10,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 14: Vida submarina
-  Elegimos la ODS 14 vida submarina por que creemos que es de suma importancia proteger los océanos y mares de toda la contaminación debido a que los océanos son esenciales para la vida , ya que nos proporciona alimentos y albergan una gran biodiversidad.
+  Elegimos la ODS 14 vida submarina por que creemos que es de suma importancia proteger los océanos y mares de toda la contaminación debido a que los océanos son esenciales para la vida, ya que nos proporciona alimentos y albergan una gran biodiversidad.
 
 ---
 
