@@ -54,7 +54,7 @@ Como equipo, centraremos nuestro trabajo en la acumulación de residuos plástic
 
 ### Contexto del Problema
 
-Una parte de los residuos que llegan al ambiente marino se origina en actividades realizadas en tierra. Entre sus posibles causas se encuentran el manejo inadecuado de los residuos sólidos, el uso frecuente de plásticos de un solo uso, la falta de segregación de residuos y las deficiencias en la recolección de basura en determinadas zonas urbanas y costeras.
+Una parte de los residuos que llegan al ambiente marino se origina en actividades realizadas en tierra. Esta problemática también se relaciona con la ODS 11, debido a que una gestión eficiente y sostenible de los residuos en las ciudades y comunidades costeras puede contribuir a disminuir la cantidad de desechos que llegan a los ecosistemas marinos. Por ello, las prácticas de manejo de residuos en las zonas urbanas constituyen un aspecto importante para prevenir la contaminación de las playas y océanos Entre sus posibles causas se encuentran el manejo inadecuado de los residuos sólidos, el uso frecuente de plásticos de un solo uso, la falta de segregación de residuos y las deficiencias en la recolección de basura en determinadas zonas urbanas y costeras.
 
 Botellas, bolsas, envases, envolturas y otros materiales plásticos pueden llegar a playas y océanos, permanecer durante largos periodos en el ambiente y fragmentarse progresivamente hasta convertirse en partículas más pequeñas, como los microplásticos. Estos residuos pueden deteriorar los hábitats y afectar a peces, aves, tortugas y otras especies marinas.
 
