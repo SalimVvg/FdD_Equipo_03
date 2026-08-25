@@ -88,4 +88,4 @@ Nuestro enfoque estará orientado a identificar las principales causas de esta c
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+El equipo busca aplicar la metodología de diseño para desarrollar una solución innovadora que reduzca la acumulación de residuos plásticos terrestres en las costas y ecosistemas marinos del Perú, protegiendo la biodiversidad marina en el marco del ODS 14.
