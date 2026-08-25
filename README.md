@@ -12,6 +12,8 @@ La ODS 14: Vida Submarina constituye el eje principal de nuestro proyecto, debid
 
 ### ODS Secundarias
 
+* ODS 11 - Ciudades y Comunidades Sostenibles: Se relaciona con nuestro proyecto debido a que la gestión adecuada de los residuos sólidos en las ciudades y zonas costeras contribuye a prevenir que los desechos lleguen a playas, ríos y océanos. Asimismo, promover comunidades sostenibles implica mejorar las prácticas de manejo de residuos y reducir los impactos ambientales generados por las actividades urbanas.
+  
 * ODS 12 - Producción y Consumo Responsables: Se relaciona con nuestro proyecto debido a que la generación excesiva de residuos, principalmente plásticos de un solo uso, y su manejo inadecuado pueden ocasionar que estos desechos lleguen a playas, ríos y océanos.
 
 * ODS 13 - Acción por el Clima: Se considera de manera complementaria porque los cambios en las condiciones climáticas, como el incremento de la temperatura del océano, pueden aumentar la vulnerabilidad de los ecosistemas marinos y afectar su biodiversidad.
