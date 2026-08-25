@@ -8,7 +8,7 @@
 Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-La ODS 14: Vida Submarina constituye el eje principal de nuestro proyecto, debido a que está orientada a la conservación y uso sostenible de los océanos, mares y recursos marinos. Nuestro trabajo se enfocará especialmente en los problemas relacionados con la contaminación de las zonas costeras y sus efectos sobre los ecosistemas y especies marinas.
+La ODS 14: Vida Submarina constituye el eje principal de nuestro proyecto, debido a que está orientada a la conservación y uso sostenible de los océanos, mares y recursos marinos. Nuestro trabajo se enfocará especialmente en los problemas relacionados con la contaminación de las zonas costeras y en cómo esta afecta a los ecosistemas y especies marinas.
 
 ### ODS Secundarias
 
