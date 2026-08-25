@@ -70,7 +70,7 @@ Nuestro enfoque estará orientado a identificar las principales causas de esta c
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="equipo.png.jpeg" src="/Recursos/Imágenes/equipo.png.jpeg"/>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 03</em>
 </p>
 
 ---
