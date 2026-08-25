@@ -8,19 +8,19 @@
 Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-La *ODS 14: Vida Submarina* constituye el eje principal de nuestro proyecto, debido a que está orientada a la conservación y uso sostenible de los océanos, mares y recursos marinos. Nuestro trabajo se enfocará especialmente en los problemas relacionados con la contaminación de las zonas costeras y sus efectos sobre los ecosistemas y especies marinas.
+La ODS 14: Vida Submarina constituye el eje principal de nuestro proyecto, debido a que está orientada a la conservación y uso sostenible de los océanos, mares y recursos marinos. Nuestro trabajo se enfocará especialmente en los problemas relacionados con la contaminación de las zonas costeras y sus efectos sobre los ecosistemas y especies marinas.
 
 ### ODS Secundarias
 
-* *ODS 12 - Producción y Consumo Responsables:* Se relaciona con nuestro proyecto debido a que la generación excesiva de residuos, principalmente plásticos de un solo uso, y su manejo inadecuado pueden ocasionar que estos desechos lleguen a playas, ríos y océanos.
+* ODS 12 - Producción y Consumo Responsables: Se relaciona con nuestro proyecto debido a que la generación excesiva de residuos, principalmente plásticos de un solo uso, y su manejo inadecuado pueden ocasionar que estos desechos lleguen a playas, ríos y océanos.
 
-* *ODS 13 - Acción por el Clima:* Se considera de manera complementaria porque los cambios en las condiciones climáticas, como el incremento de la temperatura del océano, pueden aumentar la vulnerabilidad de los ecosistemas marinos y afectar su biodiversidad.
+* ODS 13 - Acción por el Clima: Se considera de manera complementaria porque los cambios en las condiciones climáticas, como el incremento de la temperatura del océano, pueden aumentar la vulnerabilidad de los ecosistemas marinos y afectar su biodiversidad.
 
 ---
 
 ## 2. Descripción General de la ODS 14
 
-El *Objetivo de Desarrollo Sostenible 14: Vida Submarina* busca conservar y utilizar sosteniblemente los océanos, mares y recursos marinos. Estos ecosistemas desempeñan un papel fundamental para el planeta, debido a que albergan una gran biodiversidad, participan en la regulación del clima y representan una importante fuente de alimentos y actividades económicas como la pesca y el turismo.
+El Objetivo de Desarrollo Sostenible 14: Vida Submarina busca conservar y utilizar sosteniblemente los océanos, mares y recursos marinos. Estos ecosistemas desempeñan un papel fundamental para el planeta, debido a que albergan una gran biodiversidad, participan en la regulación del clima y representan una importante fuente de alimentos y actividades económicas como la pesca y el turismo.
 
 Sin embargo, los ecosistemas marinos y costeros enfrentan diferentes problemas relacionados con las actividades humanas, entre ellos la acumulación de residuos plásticos, la presencia de microplásticos, los vertidos contaminantes, la sobreexplotación de recursos marinos y el deterioro de sus hábitats naturales.
 
@@ -48,7 +48,7 @@ Reducir considerablemente la generación de desechos mediante actividades de pre
 
 ## 4. Delimitación de la Problemática
 
-Como equipo, centraremos nuestro trabajo en la *acumulación de residuos plásticos en las zonas costeras y ecosistemas marinos del Perú y sus efectos sobre la vida marina*.
+Como equipo, centraremos nuestro trabajo en la acumulación de residuos plásticos en las zonas costeras y ecosistemas marinos del Perú y sus efectos sobre la vida marina.
 
 ### Contexto del Problema
 
@@ -58,7 +58,7 @@ Botellas, bolsas, envases, envolturas y otros materiales plásticos pueden llega
 
 ### Enfoque del Equipo durante el Curso
 
-Durante el desarrollo del curso analizaremos *cómo la acumulación y el manejo inadecuado de residuos plásticos en zonas terrestres y costeras contribuyen a la contaminación de los ecosistemas marinos y afectan a la biodiversidad*.
+Durante el desarrollo del curso también analizaremos *cómo la acumulación y el manejo inadecuado de residuos plásticos en zonas terrestres y costeras contribuyen a la contaminación de los ecosistemas marinos y afectan a la biodiversidad*.
 
 Nuestro enfoque estará orientado a identificar las principales causas de esta contaminación, comprender cómo los residuos llegan hasta el ambiente marino y analizar sus principales consecuencias sobre las zonas costeras y las especies que las habitan.
 
