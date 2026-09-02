@@ -100,6 +100,14 @@ conservación de los ecosistemas marinos.
 
 ![Patente 3](../../Recursos/Imágenes/patente3.png)
 
+# Tabla Comparativa de Patentes de Recolección y Procesamiento de Plásticos Marinos
+
+| Patente | Tema Principal | Aporte / Innovación | Variables y Parámetros Térmico-Operativos |
+| :--- | :--- | :--- | :--- |
+| **US12097545B2**<br>*(Metropoulos P., 2024)* | Recolección y destrucción *in situ* de residuos plásticos acuáticos mediante oxidación. | Implementa un sistema flotante de destrucción que no solo recolecta, sino que elimina el plástico recolectado en el sitio mediante un proceso de **oxidación en lecho fluidizado** (usando sílice/arena fluidizada), evitando el traslado de desechos a tierra. | • **Temperatura del lecho:** ~500 °C a 800 °C (oxidación térmica).<br>• **Flujo de aire/gas de fluidización:** Regulado para mantener el medio sólido en suspensión.<br>• **Tasa de alimentación:** Controlada según la densidad del plástico capturado.<br>• **Eficiencia de captura:** Flujo/velocidad de recolección de agua y barrido en superficie. |
+| **US12275167B1**<br>*(Cook Z. & Carson GD, 2025)* | Embarcación marina con sistema integrado de trituración, pelletizado y valorización de plástico. | Integra dentro del mismo buque la captura, la trituración y la extrusión/pelletización para transformar los plásticos marinos en un insumo industrial reutilizable (**asfalto plástico / mezclas bituminosas**). | • **Tamaño de partícula de triturado:** Granulometría de 2 mm a 10 mm.<br>• **Temperatura de extrusión/pelletizado:** Rango de 160 °C a 240 °C (según resinas PET/PE/PP).<br>• **Capacidad de procesamiento:** Rango dinámico en toneladas de plástico procesado por hora (t/h).<br>• **Proporción de mezcla:** Porcentaje de adición de pellet plástico a la mezcla asfáltica target. |
+| **US11661156B2**<br>*(Svorcan R., 2023)* | Aparato y método mecánico/hidrodinámico para recolección de desechos marinos. | Sistema mecánico asistido por dinámica de fluidos (barreras mecánicas/deflectoras y flujo asistido) diseñado para capturar y concentrar residuos plásticos flotantes y sumergidos de forma continua sin dañar la fauna marina. | • **Velocidad de desplazamiento/flujo:** 0.5 a 2.5 nudos para evitar sobrepaso de desechos.<br>• **Profundidad de recolección/calado:** Ajustable de 0.5 m hasta 3 m bajo la superficie.<br>• **Apertura de barrera de captura:** Ángulo y ancho de barrido dinámico (m).<br>• **Capacidad de almacenamiento temporal:** En volumen (m³) o masa (kg). |
+
 
 
 
