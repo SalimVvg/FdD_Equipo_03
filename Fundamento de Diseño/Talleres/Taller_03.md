@@ -67,6 +67,8 @@ contribuyendo a reducir la acumulación de residuos en el océano y
 promoviendo su reutilización.
 [(5)](https://www.zotero.org/google-docs/?Y6Sgch)
 
+![Patente 2](../../Recursos/Imágenes/patente2.png)
+
 Mediante un sistema compuesto por dos tornillos helicoidales dispuestos
 en forma de V, se plantea la recolección de residuos flotantes presentes
 en mares, océanos, lagos y deltas de ríos. Estos mecanismos permiten
@@ -76,6 +78,8 @@ para facilitar su desplazamiento y funcionamiento. La propuesta busca
 disminuir la presencia de residuos en cuerpos de agua y contribuir a la
 conservación de los ecosistemas marinos.
 [(6)](https://www.zotero.org/google-docs/?dQA2ip)
+
+![Patente 3](../../Recursos/Imágenes/patente3.png)
 
 **Productos comerciales:**
 
