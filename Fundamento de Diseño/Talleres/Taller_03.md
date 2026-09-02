@@ -110,7 +110,6 @@ conservación de los ecosistemas marinos.
 
 
 
-
 **Productos comerciales:**
 
 7) "Efectos toxicopatológicos del filtro UV de protección solar, oxibenzona (benzofenona-3), sobre las planulas de coral y las células primarias cultivadas y su contaminación ambiental en Hawai y los EE. Islas Vírgenes"
