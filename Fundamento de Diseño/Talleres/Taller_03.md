@@ -15,6 +15,7 @@ promover una mayor educación y participación de la sociedad en la
 protección de los ecosistemas marinos.
 [(1)](https://www.zotero.org/google-docs/?khWpoY)
 
+
 2) "Implementing SDG 14: Opportunities and challenges in a Caribbean Small Island Developing State"
 
 El artículo estudia la implementación del ODS 14 en Trinidad y Tobago,
@@ -29,6 +30,7 @@ ambiental. Por ello, se plantea la necesidad de fortalecer las políticas
 de conservación, aumentar los recursos destinados a la protección marina
 y mejorar el seguimiento de los avances hacia el ODS 14.
 [(2)](https://www.zotero.org/google-docs/?fPt2j7)
+
 
 3) "The challenge of reducing macroplastic pollution: Testing the effectiveness of a river boom under real environmental conditions"
    
@@ -68,6 +70,7 @@ acuáticos. [(4)](https://www.zotero.org/google-docs/?CAkMvK)
 
 ![Patente 1](../../Recursos/Imágenes/patente1.png)
 
+
 5) "MARINE VESSEL WITH INTEGRATED PLASTIC SHREDDING AND PELLETIZING SYSTEM FOR OCEAN CLEANUP AND REPURPOSING INTO PLASTIC ASPHALT"
 
 Una solución tecnológica plantea el uso de una embarcación capaz de
@@ -81,6 +84,7 @@ promoviendo su reutilización.
 [(5)](https://www.zotero.org/google-docs/?Y6Sgch)
 
 ![Patente 2](../../Recursos/Imágenes/patente2.png)
+
 
 6) "APPARATUS AND METHOD FOR COLLECTING MARINE DEBRIS"
 
@@ -120,6 +124,7 @@ seguras para garantizar la conservación de los ecosistemas marinos.
 [(7)](https://www.zotero.org/google-docs/?RFGfRs)
 
 
+
 8) "Degradación marina y ecotoxicidad de bolsas de plástico convencionales, recicladas y compostables"
 
 El artículo analiza el mecanismo de fotoinactivación parcial del
@@ -135,6 +140,7 @@ eficientes sin generar estrés oxidativo. Por ello, los autores resaltan
 cómo esta adaptación evolutiva única facilita la supervivencia y el
 rendimiento fotosintético de *Z. marina* en su hábitat marino sumergido.
 [(8)](https://www.zotero.org/google-docs/?trN3Q8)
+
 
 9) "¿Qué tan sostenible y seguro es beber de las botellas de recarga y reutilización? Un análisis basado en la evaluación del ciclo de vida (ACV) y la calidad microbiológica del agua"
     
@@ -171,6 +177,7 @@ playa e impulsar estrategias de gestión de residuos de mayor eficacia
 para proteger el litoral liberteño.
 [(10)](https://www.zotero.org/google-docs/?S5trRi)
 
+
 11) "Impacto socioambiental por residuos sólidos en las playas de la Bahía de Paracas y propuesta de estrategias de manejo - provincia de Pisco, año 2021"
 
 La tesis evalúa el impacto socioambiental generado por la acumulación de
@@ -186,6 +193,7 @@ manejo integral orientadas a fortalecer el control ambiental, optimizar
 la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
+
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 
