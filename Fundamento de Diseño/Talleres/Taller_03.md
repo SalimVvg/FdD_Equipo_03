@@ -123,7 +123,7 @@ cuidado personal y promover el uso de alternativas ecotóxicamente
 seguras para garantizar la conservación de los ecosistemas marinos.
 [(7)](https://www.zotero.org/google-docs/?RFGfRs)
 
-![Patente 1](../../Recursos/Imágenes/producto1.png)
+![Producrto Comercial 1](../../Recursos/Imágenes/producto1.jpeg)
 
 
 
@@ -144,7 +144,7 @@ rendimiento fotosintético de *Z. marina* en su hábitat marino sumergido.
 [(8)](https://www.zotero.org/google-docs/?trN3Q8)
 
 
-![Patente 1](../../Recursos/Imágenes/producto2.png)
+![Producrto Comercial 2](../../Recursos/Imágenes/producto2.jpeg)
 
 
 
@@ -166,7 +166,7 @@ seguro y ambientalmente sostenible.
 [(9)](https://www.zotero.org/google-docs/?SYh2wb)
 
 
-![Patente 1](../../Recursos/Imágenes/producto3.png)
+![Producrto Comercial 3](../../Recursos/Imágenes/producto3.jpeg)
 
 
 **Tesis:**
