@@ -1,5 +1,6 @@
 **Artículos científicos:**
 
+1) "Progress towards the Sustainable Development Goal 14 (Life below water) in the context of Brazil: A multicriteria approach"
 El artículo analiza los principales obstáculos que enfrenta Brasil para
 alcanzar el ODS 14: Vida submarina. El estudio identifica problemas
 ambientales, sociales y de gestión, entre ellos la contaminación marina,
@@ -13,6 +14,7 @@ promover una mayor educación y participación de la sociedad en la
 protección de los ecosistemas marinos.
 [(1)](https://www.zotero.org/google-docs/?khWpoY)
 
+2) "Implementing SDG 14: Opportunities and challenges in a Caribbean Small Island Developing State"
 El artículo estudia la implementación del ODS 14 en Trinidad y Tobago,
 un pequeño Estado insular cuya economía depende considerablemente de sus
 recursos marinos. El estudio evidencia problemas como la contaminación
@@ -26,6 +28,7 @@ de conservación, aumentar los recursos destinados a la protección marina
 y mejorar el seguimiento de los avances hacia el ODS 14.
 [(2)](https://www.zotero.org/google-docs/?fPt2j7)
 
+3) "The challenge of reducing macroplastic pollution: Testing the effectiveness of a river boom under real environmental conditions"
 El artículo evalúa el diseño y funcionamiento de dos prototipos de
 centro flotante de bajo costo, adaptados a partir del modelo Clearbot,
 destinados a la recolección de residuos plásticos en lagos de agua dulce
@@ -43,8 +46,12 @@ necesidad de realizar investigaciones adicionales en torno a su
 autonomía y gasto energético.
 [(3)](https://www.zotero.org/google-docs/?dKDYps)
 
+
+
+
 **Patentes:**
 
+4) "METHOD FOR EFFICIENT COLLECTION AND DESTRUCTION OF PLASTIC WASTE IN BODIES OF WATER"
 Se propone un método para recolectar y destruir residuos plásticos
 presentes en cuerpos de agua. El sistema combina mecanismos de
 recolección y filtración con un proceso de tratamiento
@@ -57,6 +64,7 @@ acuáticos. [(4)](https://www.zotero.org/google-docs/?CAkMvK)
 
 ![Patente 1](../../Recursos/Imágenes/patente1.png)
 
+5) "MARINE VESSEL WITH INTEGRATED PLASTIC SHREDDING AND PELLETIZING SYSTEM FOR OCEAN CLEANUP AND REPURPOSING INTO PLASTIC ASPHALT"
 Una solución tecnológica plantea el uso de una embarcación capaz de
 recolectar residuos plásticos marinos, triturarlos y transformarlos en
 pellets reutilizables. El sistema incorpora sensores para localizar
@@ -69,6 +77,7 @@ promoviendo su reutilización.
 
 ![Patente 2](../../Recursos/Imágenes/patente2.png)
 
+6) "APPARATUS AND METHOD FOR COLLECTING MARINE DEBRIS"
 Mediante un sistema compuesto por dos tornillos helicoidales dispuestos
 en forma de V, se plantea la recolección de residuos flotantes presentes
 en mares, océanos, lagos y deltas de ríos. Estos mecanismos permiten
@@ -81,8 +90,12 @@ conservación de los ecosistemas marinos.
 
 ![Patente 3](../../Recursos/Imágenes/patente3.png)
 
+
+
+
 **Productos comerciales:**
 
+7) "Efectos toxicopatológicos del filtro UV de protección solar, oxibenzona (benzofenona-3), sobre las planulas de coral y las células primarias cultivadas y su contaminación ambiental en Hawai y los EE. Islas Vírgenes"
 El artículo analiza los efectos toxicopatológicos de la oxibenzona
 (benzofenona-3), un filtro UV común en los protectores solares, sobre
 las plánulas de coral y células primarias cultivadas, así como su nivel
@@ -99,6 +112,8 @@ cuidado personal y promover el uso de alternativas ecotóxicamente
 seguras para garantizar la conservación de los ecosistemas marinos.
 [(7)](https://www.zotero.org/google-docs/?RFGfRs)
 
+
+8) "Degradación marina y ecotoxicidad de bolsas de plástico convencionales, recicladas y compostables"
 El artículo analiza el mecanismo de fotoinactivación parcial del
 complejo liberador de oxígeno (OEC) como estrategia para regular la
 fotosíntesis en el pasto marino *Zostera marina* bajo exposición a la
@@ -113,6 +128,7 @@ cómo esta adaptación evolutiva única facilita la supervivencia y el
 rendimiento fotosintético de *Z. marina* en su hábitat marino sumergido.
 [(8)](https://www.zotero.org/google-docs/?trN3Q8)
 
+9) "¿Qué tan sostenible y seguro es beber de las botellas de recarga y reutilización? Un análisis basado en la evaluación del ciclo de vida (ACV) y la calidad microbiológica del agua"
 El artículo analiza la sostenibilidad y la seguridad microbiológica del
 agua al consumir en botellas rellenables y reutilizables, evaluando su
 impacto ambiental mediante el análisis del ciclo de vida (ACV). El
@@ -130,6 +146,7 @@ seguro y ambientalmente sostenible.
 
 **Tesis:**
 
+10) "PRESENCIA DE MICROPLÁSTICOS EN SEIS PLAYAS DEL DEPARTAMENTO DE LA LIBERTAD, 2022"
 La tesis analiza la presencia y abundancia de microplásticos en seis
 playas de la zona costera del departamento de La Libertad durante el año
 2022. El estudio identifica los niveles de contaminación antropogénica
@@ -144,6 +161,7 @@ playa e impulsar estrategias de gestión de residuos de mayor eficacia
 para proteger el litoral liberteño.
 [(10)](https://www.zotero.org/google-docs/?S5trRi)
 
+11) "Impacto socioambiental por residuos sólidos en las playas de la Bahía de Paracas y propuesta de estrategias de manejo - provincia de Pisco, año 2021"
 La tesis evalúa el impacto socioambiental generado por la acumulación de
 residuos sólidos en las playas de la Bahía de Paracas durante el año
 2021. El estudio identifica los principales tipos de desechos presentes,
@@ -158,6 +176,7 @@ la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
+12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 La tesis evalúa el impacto socioambiental generado por la acumulación de
 residuos sólidos en las playas de la Bahía de Paracas durante el año
 2021. El estudio identifica los principales tipos de desechos presentes,
