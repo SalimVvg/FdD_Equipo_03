@@ -123,6 +123,8 @@ cuidado personal y promover el uso de alternativas ecotóxicamente
 seguras para garantizar la conservación de los ecosistemas marinos.
 [(7)](https://www.zotero.org/google-docs/?RFGfRs)
 
+![Patente 1](../../Recursos/Imágenes/producto1.png)
+
 
 
 8) "Degradación marina y ecotoxicidad de bolsas de plástico convencionales, recicladas y compostables"
@@ -142,6 +144,10 @@ rendimiento fotosintético de *Z. marina* en su hábitat marino sumergido.
 [(8)](https://www.zotero.org/google-docs/?trN3Q8)
 
 
+![Patente 1](../../Recursos/Imágenes/producto2.png)
+
+
+
 9) "¿Qué tan sostenible y seguro es beber de las botellas de recarga y reutilización? Un análisis basado en la evaluación del ciclo de vida (ACV) y la calidad microbiológica del agua"
     
 El artículo analiza la sostenibilidad y la seguridad microbiológica del
@@ -158,6 +164,10 @@ buenas prácticas de uso y limpieza en la población, así como fomentar el
 diseño de envases de fácil desinfección para garantizar un consumo
 seguro y ambientalmente sostenible.
 [(9)](https://www.zotero.org/google-docs/?SYh2wb)
+
+
+![Patente 1](../../Recursos/Imágenes/producto3.png)
+
 
 **Tesis:**
 
