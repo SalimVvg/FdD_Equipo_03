@@ -55,7 +55,7 @@ se relaciona principalmente con el ODS 14: Vida Submarina, debido a su
 enfoque en la reducción de residuos plásticos en los ecosistemas
 acuáticos. [(4)](https://www.zotero.org/google-docs/?CAkMvK)
 
-![Patente 1](recursos/imagenes/patente1.jpg)
+![Patente 1](recursos/images/patente1.jpg)
 
 Una solución tecnológica plantea el uso de una embarcación capaz de
 recolectar residuos plásticos marinos, triturarlos y transformarlos en
