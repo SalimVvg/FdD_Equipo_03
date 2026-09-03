@@ -212,7 +212,10 @@ la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
- <img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/5151d488-d41c-4f7e-84d8-546b3dea57d0" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/bd8e59fb-f2f4-4a6a-b259-2cbf79de9078" alt="presencia de microplásticos" width="500" /><br>
+  <sub><b>Fuente:</b> Agencia Peruana de Noticias <a href="https://andina.pe/agencia/noticia-paracas-aprueba-primer-plan-contra-lucha-basura-marina-el-pais-530026.aspx">Andina</a></sub>
+</p>
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 
