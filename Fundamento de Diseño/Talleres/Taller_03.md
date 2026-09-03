@@ -184,7 +184,10 @@ seguro y ambientalmente sostenible.
 [(9)](https://www.zotero.org/google-docs/?SYh2wb)
 
 
-![Producrto Comercial 3](../../Recursos/Imágenes/producto3.jpeg)
+<p align="center">
+  <img src="../../Recursos/Imágenes/producto3.jpeg" alt="Producto Comercial 3" width="500" /><br>
+  <sub><b>Fuente:</b> <a href="https://molpack.net/tiempo-de-degradacion-del-plastico-siglos-o-milenios-part-2/">Molpack</a></sub>
+</p>
 
 
 **Tesis:**
