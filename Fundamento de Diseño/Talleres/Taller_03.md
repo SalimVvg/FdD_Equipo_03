@@ -213,8 +213,6 @@ la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
- <p align="center">
-  <img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/4ecd192f-3908-483a-b6a6-63c293342e95" />
 
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
