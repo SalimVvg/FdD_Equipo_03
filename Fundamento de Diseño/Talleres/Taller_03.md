@@ -236,6 +236,13 @@ mitigar la contaminación en el litoral de la bahía.
 
  <img width="286" height="176" alt="centro flotante" src="https://github.com/user-attachments/assets/00607e0c-97ee-483f-9a12-20363e32c433" />
 
+### Tabla Comparativa de Tesis sobre Residuos Plásticos y Gestión Ambiental
+
+| Tesis / Fuente | Tema Principal | Aporte / Innovación | Variables y Parámetros Operativos |
+| :--- | :--- | :--- | :--- |
+| **Presencia de microplásticos en seis playas del departamento de La Libertad, 2022**<br>*(UPN, 2022)*<br>[Ver repositorio](https://repositorio.upn.edu.pe/item/adfdeec8-c977-4ab1-8305-bce25952dda1) | Cuantificación e identificación del nivel de contaminación por microplásticos en la zona costera de La Libertad. | Evaluación comparativa de la abundancia, morfología (fibras, fragmentos, filmes) y distribución de polímeros según la presión antropogénica de cada playa. | • **Muestreo:** Sedimentos superficiales e intermareales en 6 playas.<br>• **Abundancia:** Concentración de partículas por kg/m².<br>• **Caracterización:** Tipo, color y tamaño de las partículas sintéticas. |
+| **Impacto socioambiental por residuos sólidos en las playas de la Bahía de Paracas y propuesta de estrategias de manejo**<br>*(UNICA, 2021)*<br>[Ver repositorio](https://repositorio.unica.edu.pe/items/d69e1c80-78f1-4019-b55f-71e79c049d1c) | Diagnóstico del impacto socioambiental de la basura marina en Pisco y propuesta de un plan integral de gestión de residuos. | Formulación de estrategias operativas y comunitarias integradas con análisis estadístico (Chi-cuadrado) para evaluar el impacto en la salud pública y el ecosistema costero. | • **Evaluación:** Tipificación de desechos sólidos y fuentes antrópicas.<br>• **Impacto:** Alteración del ecosistema y actividades socioeconómicas.<br>• **Estrategias:** Control ambiental, optimización del recojo y participación comunitaria. |
+| **Prototipo de centro flotante para la recolección de residuos plásticos contaminantes en un lago de agua dulce**<br>*(USC, 2023)*<br>[Ver repositorio](https://repositorio.usc.edu.co/server/api/core/bitstreams/b340bd99-dec7-45f2-a7fd-8dc990865f47/content) | Diseño e implementación de un dispositivo mecatrónico flotante para captura in situ de plásticos en cuerpos de agua dulce. | Desarrollo de un sistema de retención/captura de basura flotante para evitar la dispersión de macroplásticos sin requerir infraestructura fija costosa. | • **Entorno:** Cuerpos de agua dulce lenticos (lagos/lagunas).<br>• **Mecanismo:** Flotabilidad, capacidad de carga y retención de basura.<br>• **Operatividad:** Captura continua de residuos superficiales. |
 
 REFERENCIAS
 
