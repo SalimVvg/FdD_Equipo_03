@@ -1,4 +1,4 @@
-<img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/6bb6063e-850a-47f2-b551-b0c260d096ba" />
+
 **Artículos científicos:**
 
 1) "Progress towards the Sustainable Development Goal 14 (Life below water) in the context of Brazil: A multicriteria approach"
