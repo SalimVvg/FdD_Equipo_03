@@ -193,6 +193,7 @@ medidas de mitigación, fortalecer el control ambiental en las zonas de
 playa e impulsar estrategias de gestión de residuos de mayor eficacia
 para proteger el litoral liberteño.
 [(10)](https://www.zotero.org/google-docs/?S5trRi)
+<img width="283" height="178" alt="presencia de microosplásticos" src="https://github.com/user-attachments/assets/bd8e59fb-f2f4-4a6a-b259-2cbf79de9078" />
 
 
 11) "Impacto socioambiental por residuos sólidos en las playas de la Bahía de Paracas y propuesta de estrategias de manejo - provincia de Pisco, año 2021"
