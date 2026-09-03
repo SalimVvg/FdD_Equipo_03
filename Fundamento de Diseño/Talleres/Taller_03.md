@@ -52,6 +52,8 @@ necesidad de realizar investigaciones adicionales en torno a su
 autonomía y gasto energético.
 [(3)](https://www.zotero.org/google-docs/?dKDYps)
 
+# Comparación de Artículos científicos relacionados con la ODS 14, contaminación por plásticos y gestión ambiental
+
 | Artículo Científico | Tema | ¿Qué aporta? | Variables y Parámetros Clave |
 | :--- | :--- | :--- | :--- |
 | **Progress towards the Sustainable Development Goal 14 (Life below water) in the context of Brazil: A multicriteria approach.**<br>*(Moretti et al., 2024)* | Identificación y priorización de las barreras que dificultan el cumplimiento del ODS 14 en Brasil (aspectos ambientales, técnicos, políticos, de gestión y socioeconómicos). | Propone una metodología multicriterio para identificar y jerarquizar las principales barreras que afectan el avance del ODS 14. La categoría con mayor peso e importancia fue **Política y gestión (43,68 %)**. | • **Categorización de barreras:** Clasificación cualitativa (ambiental, técnica, política, socioeconómica).<br>• **Ponderación de peso relativo (%):** Importancia asignada a cada categoría.<br>• **Dimensión Política y Gestión:** 43,68 %.<br>• **Licenciamiento ambiental:** 15,07 %. |
