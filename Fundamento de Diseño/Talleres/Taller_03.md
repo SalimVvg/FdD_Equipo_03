@@ -159,7 +159,10 @@ rendimiento fotosintético de *Z. marina* en su hábitat marino sumergido.
 [(8)](https://www.zotero.org/google-docs/?trN3Q8)
 
 
-![Producrto Comercial 2](../../Recursos/Imágenes/producto2.jpeg)
+<p align="center">
+  <img src="../../Recursos/Imágenes/producto2.jpeg" alt="Producto Comercial 2" width="500" /><br>
+  <sub><b>Fuente:</b> <a href="https://www.linkedin.com/pulse/fast-track-life-cycle-analysis-pet-single-use-vs-dopper-raganato/">LinkedIn - Marco Raganato</a></sub>
+</p>
 
 
 
