@@ -1,3 +1,4 @@
+<img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/6bb6063e-850a-47f2-b551-b0c260d096ba" />
 **Artículos científicos:**
 
 1) "Progress towards the Sustainable Development Goal 14 (Life below water) in the context of Brazil: A multicriteria approach"
@@ -213,9 +214,8 @@ mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
  <p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Limpieza de basura marina en Paracas" width="500" /><br>
-  <sub><b>Fuente:</b> Agencia Peruana de Noticias <a href="https://andina.pe/agencia/noticia-paracas-aprueba-primer-plan-contra-lucha-basura-marina-el-pais-530026.aspx">Andina</a></sub>
-</p>
+  <img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/4ecd192f-3908-483a-b6a6-63c293342e95" />
+
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 
