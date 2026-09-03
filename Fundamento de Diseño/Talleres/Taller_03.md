@@ -213,7 +213,7 @@ mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd8e59fb-f2f4-4a6a-b259-2cbf79de9078" alt="presencia de microplásticos" width="500" /><br>
+  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Limpieza de basura marina en Paracas" width="500" /><br>
   <sub><b>Fuente:</b> Agencia Peruana de Noticias <a href="https://andina.pe/agencia/noticia-paracas-aprueba-primer-plan-contra-lucha-basura-marina-el-pais-530026.aspx">Andina</a></sub>
 </p>
 
