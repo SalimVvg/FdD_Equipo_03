@@ -135,7 +135,10 @@ cuidado personal y promover el uso de alternativas ecotóxicamente
 seguras para garantizar la conservación de los ecosistemas marinos.
 [(7)](https://www.zotero.org/google-docs/?RFGfRs)
 
-![Producrto Comercial 1](../../Recursos/Imágenes/producto1.jpeg)
+<p align="center">
+  <img src="../../Recursos/Imágenes/producto1.jpeg" alt="Producto Comercial 1" width="500" /><br>
+  <sub><b>Fuente:</b> <a href="https://es.mongabay.com/2020/01/cremas-solares-corales-islas-virgenes/">Mongabay Periodismo Ambiental Independiente</a></sub>
+</p>
 
 
 
