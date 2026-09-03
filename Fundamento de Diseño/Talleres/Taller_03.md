@@ -212,6 +212,7 @@ la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
+ <img width="1800" height="1150" alt="paracas prueba" src="https://github.com/user-attachments/assets/5151d488-d41c-4f7e-84d8-546b3dea57d0" />
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 
@@ -228,6 +229,9 @@ manejo integral orientadas a fortalecer el control ambiental, optimizar
 la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(12)](https://www.zotero.org/google-docs/?t3avYQ)
+
+ <img width="286" height="176" alt="centro flotante" src="https://github.com/user-attachments/assets/00607e0c-97ee-483f-9a12-20363e32c433" />
+
 
 REFERENCIAS
 
