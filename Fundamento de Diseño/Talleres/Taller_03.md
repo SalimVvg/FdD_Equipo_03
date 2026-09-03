@@ -213,7 +213,10 @@ la gestión de residuos y promover la participación comunitaria para
 mitigar la contaminación en el litoral de la bahía.
 [(11)](https://www.zotero.org/google-docs/?ndTGVy)
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9db4409-1ae1-411c-8935-3f8234e43dd9" alt="Limpieza de basura marina en Paracas" width="500" /><br>
+  <sub><b>Fuente:</b> Agencia Peruana de Noticias <a href="https://andina.pe/agencia/noticia-paracas-aprueba-primer-plan-contra-lucha-basura-marina-el-pais-530026.aspx">Andina</a></sub>
+</p>
 
 12) "Prototipo de centro flotante para la recolección de residuos  plásticos contaminantes en un lago de agua dulce"
 
