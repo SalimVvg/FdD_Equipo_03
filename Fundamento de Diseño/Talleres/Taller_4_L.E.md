@@ -3,9 +3,7 @@
 | | | | Edición: 01 |
 | **PROYECTO:** | EcoAlert | | Fecha: 09/09/2026<br>Revisado: |
 | **CLIENTE:** | Municipalidades distritales costeras | | Elaborado: Equipo 03 (Informática/Industrial) |
-
-| Fecha (cambios) | Deseo o Exigencia | DESCRIPCIÓN | Responsable |
-| :--- | :---: | :--- | :--- |
+| **Fecha (cambios)** | **Deseo o Exigencia** | **DESCRIPCIÓN** | **Responsable** |
 | 09/09/2026 | E | **FUNCIÓN PRINCIPAL:**<br>Recolectar, filtrar y monitorear macro y microplásticos en zonas costeras y agua superficial de manera automatizada para evitar la contaminación de ecosistemas marinos. | TODOS |
 | | E | **GEOMETRÍA:**<br>Dimensiones máximas del dispositivo/sistema flotante: 50 cm X 40 cm X 30 cm para garantizar maniobralidad | TODOS |
 | | E | Geometría de catamarán o estructura simétrica que asegure estabilidad hidrodinámica en aguas someras. | TODOS |
