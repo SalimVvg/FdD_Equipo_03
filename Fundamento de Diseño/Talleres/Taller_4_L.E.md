@@ -3,7 +3,6 @@
 | PROYECTO: EcoAlert | Edición: 01 |
 | CLIENTE: Municipalidades distritales costeras | Fecha: 09/09/2026 |
 | REVISADO: — | Elaborado: Equipo 03 (Informática/Industrial) |
-
 | Fecha (cambios) | Deseo o Exigencia | DESCRIPCIÓN | Responsable |
 | :---: | :---: | :--- | :--- |
 | 09/09/2026 | E | **FUNCIÓN PRINCIPAL:**<br>Recolectar, filtrar y monitorear macro y microplásticos en zonas costeras y agua superficial de manera automatizada para evitar la contaminación de ecosistemas marinos. | TODOS |
