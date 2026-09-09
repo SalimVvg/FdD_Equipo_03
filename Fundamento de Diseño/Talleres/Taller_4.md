@@ -12,7 +12,7 @@
 
 ### N°1:
 
-![Figura 1](/Recursos/Imágenes/PATENTE1.png)
+![Figura 1](/Recursos/Imágenes/PATENTE1.jpeg)
 
 *Figura 1. Vista estructural general del buque de recolección de basura por inhalación marítima. Fuente: adaptado de la patente CN208151993U (1)*
 
