@@ -6,7 +6,9 @@
 <img width="1600" height="1153" alt="WhatsApp Image 2026-11-17 at 12 55 38 PM" src="https://github.com/user-attachments/assets/dd84581c-7431-4340-8457-1c715568b863" />
 <br><br><br>
 <img width="1228" height="794" alt="WhatsApp Image 2026-11-17 at 12 58 50 PM" src="https://github.com/user-attachments/assets/9b968515-2556-4aa6-962d-913c80f27e3d" />
-### Descripción del funcionamiento
+
+<br><br>
+### Descripción del funcionamiento 
 
 El sistema opera como una estructura flotante operada manualmente, diseñada para la recolección de residuos sólidos superficiales en cuerpos de agua. Su desplazamiento y dirección son controlados directamente por un operario mediante un sistema de propulsión compuesto por motores y hélices. A medida que avanza por la superficie, el flujo de agua dirige los residuos flotantes a través de una abertura frontal hacia una red colectora integrada, donde quedan retenidos para su posterior extracción y disposición.
 
@@ -31,6 +33,7 @@ El sistema opera como una estructura flotante operada manualmente, diseñada par
 | 17 | INA226 2 mΩ | Fibra de vidrio (PCB), silicio y aleación de cobre-manganeso (manganina) |
 | 18 | Portafusible | Plástico ABS/baquelita y latón |
 | 19 | Interruptor | Fibra de vidrio (PCB), plástico ABS y silicio |
+
 <br><br><br>
 
 ### SOLUCIÓN 2
@@ -39,6 +42,7 @@ El sistema opera como una estructura flotante operada manualmente, diseñada par
 <br><br>
 <img width="960" height="648" alt="WhatsApp Image 2026-11-17 at 1 19 26 PM" src="https://github.com/user-attachments/assets/ff1ea76b-fcb7-48cd-b532-1a7256e8401d" />
 
+<br><br>
 ### Descripción del funcionamiento
 
 AquaGuard funciona mediante una estructura flotante formada por tuberías de PVC selladas en forma de “V”, las cuales proporcionan flotabilidad y ayudan a dirigir los residuos hacia la zona de recolección. Los residuos sólidos superficiales son retenidos por una rejilla colectora pasiva de alta densidad y almacenados en un contenedor fijo sellado. Un sensor ultrasónico de distancia detecta el nivel de llenado y envía la información al microcontrolador ESP32, que procesa la señal y muestra el estado del sistema a través de un panel local con LEDs. La alimentación eléctrica se realiza mediante un panel solar monocristalino compacto, un regulador de carga PWM y una batería convencional de plomo-ácido. Asimismo, la información puede transmitirse mediante comunicación Wi-Fi local.
@@ -58,13 +62,14 @@ AquaGuard funciona mediante una estructura flotante formada por tuberías de PVC
 | 10 | Microcontrolador ESP32 con Wi-Fi integrado | Silicio, fibra de vidrio (PCB) y aluminio |
 | 11 | Panel local con LEDs indicadores | Acrílico y fibra de vidrio (PCB) |
 | 12 | Módulo Wi-Fi | Fibra de vidrio (PCB) y aluminio |
-<br><br>
+
+<br><br><br>
 ### SOLUCIÓN 3
 <br><br>
 <img width="782" height="757" alt="WhatsApp Image 2026-11-17 at 1 16 53 PM" src="https://github.com/user-attachments/assets/b01a9787-ba37-427f-b94e-99e9dd463002" />
 <br><br>
 <img width="636" height="785" alt="WhatsApp Image 2026-11-17 at 1 16 58 PM" src="https://github.com/user-attachments/assets/da6b5138-7089-458b-af06-e61c65f72f22" />
-
+<br><br>
 ### Descripción del funcionamiento 
 
 El sistema opera de forma semiautónoma en lagunas mediante un generador híbrido solar-eólico que alimenta una batería con bus DC y un conversor Buck. Los pontones de polietileno mantienen la flotabilidad. El agua superficial ingresa a un tambor filtrante rotativo que retiene los sólidos. Un sensor láser óptico detecta el nivel de llenado y acciona el sistema de compactación mecánica. Por su parte, la Raspberry Pi, protegida por un relé de estado sólido y una carcasa de aluminio, procesa los datos y los transmite vía celular GSM/4G hacia una plataforma web IoT en la nube.
