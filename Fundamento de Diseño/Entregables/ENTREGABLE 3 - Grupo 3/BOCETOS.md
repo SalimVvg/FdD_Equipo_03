@@ -1,6 +1,7 @@
 ### SOLUCIÓN 1 (ELEGIDA)
 <img width="1129" height="738" alt="Boceto 1 1" src="https://github.com/user-attachments/assets/d3a91feb-8caa-4d76-b064-4242c943063f" />
 
+### VISTA INTERNA
 <img width="1102" height="722" alt="WhatsApp Image 2026-11-17 at 12 43 13 PM" src="https://github.com/user-attachments/assets/18e8da5a-087d-435d-aa41-66f3de2987a5" />
 
 <img width="1600" height="1153" alt="WhatsApp Image 2026-11-17 at 12 55 38 PM" src="https://github.com/user-attachments/assets/dd84581c-7431-4340-8457-1c715568b863" />
