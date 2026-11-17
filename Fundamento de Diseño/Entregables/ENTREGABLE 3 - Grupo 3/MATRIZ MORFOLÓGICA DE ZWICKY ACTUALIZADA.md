@@ -1,5 +1,5 @@
 ### SOLUCIÓN 1 (ELEGIDA)
-
+![Boceto 1.1](Recursos/Imágenes/Boceto%201.1.jpeg)
 ### Descripción del funcionamiento
 
 El sistema opera como una estructura flotante operada manualmente, diseñada para la recolección de residuos sólidos superficiales en cuerpos de agua. Su desplazamiento y dirección son controlados directamente por un operario mediante un sistema de propulsión compuesto por motores y hélices. A medida que avanza por la superficie, el flujo de agua dirige los residuos flotantes a través de una abertura frontal hacia una red colectora integrada, donde quedan retenidos para su posterior extracción y disposición.
