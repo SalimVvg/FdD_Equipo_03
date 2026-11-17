@@ -1,6 +1,11 @@
 ### SOLUCIÓN 1 (ELEGIDA)
 <img width="1129" height="738" alt="Boceto 1 1" src="https://github.com/user-attachments/assets/d3a91feb-8caa-4d76-b064-4242c943063f" />
 
+<img width="1102" height="722" alt="WhatsApp Image 2026-11-17 at 12 43 13 PM" src="https://github.com/user-attachments/assets/18e8da5a-087d-435d-aa41-66f3de2987a5" />
+
+<img width="1600" height="1153" alt="WhatsApp Image 2026-11-17 at 12 55 38 PM" src="https://github.com/user-attachments/assets/dd84581c-7431-4340-8457-1c715568b863" />
+
+<img width="1228" height="794" alt="WhatsApp Image 2026-11-17 at 12 58 50 PM" src="https://github.com/user-attachments/assets/9b968515-2556-4aa6-962d-913c80f27e3d" />
 ### Descripción del funcionamiento
 
 El sistema opera como una estructura flotante operada manualmente, diseñada para la recolección de residuos sólidos superficiales en cuerpos de agua. Su desplazamiento y dirección son controlados directamente por un operario mediante un sistema de propulsión compuesto por motores y hélices. A medida que avanza por la superficie, el flujo de agua dirige los residuos flotantes a través de una abertura frontal hacia una red colectora integrada, donde quedan retenidos para su posterior extracción y disposición.
