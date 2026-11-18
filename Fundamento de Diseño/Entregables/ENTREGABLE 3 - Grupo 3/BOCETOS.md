@@ -32,7 +32,7 @@ El sistema opera como una estructura flotante operada manualmente, diseñada par
 | 16 | Drivers BTS7960 | Fibra de vidrio (PCB), silicio y aluminio (disipador) |
 | 17 | INA226 2 mΩ | Fibra de vidrio (PCB), silicio y aleación de cobre-manganeso (manganina) |
 | 18 | Portafusible | Plástico ABS/baquelita y latón |
-| 19 | Interruptor | Fibra de vidrio (PCB), plástico ABS y silicio |
+| 19 | Interruptor basculante 12V (o Rocker Switch 12V / Switch RS-201-4C) | Plástico (o Nylon) |
 
 <br><br><br>
 
